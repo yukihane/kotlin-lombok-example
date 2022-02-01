@@ -2,7 +2,7 @@ package example;
 
 import lombok.Value;
 
-@Value(staticConstructor="of")
+@Value
 public class MyValue {
     Integer value;
 }
