@@ -1,0 +1,5 @@
+usage:
+[source]
+----
+mvn clean compile exec:java
+----
